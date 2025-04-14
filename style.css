@@ -1,0 +1,18 @@
+#loading,
+#results {
+    display: none;
+}
+
+img {
+    width: 200px;
+    cursor: pointer;
+}
+
+.pic {
+    display: flex;
+    justify-content: space-around;
+}
+
+.row {
+    justify-content: center;
+}
