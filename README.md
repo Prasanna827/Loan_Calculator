@@ -1,5 +1,5 @@
-**Loan Calculator
-**A user-friendly web application that helps users calculate loan payments, including monthly payments, total payment amounts, and total interest based on loan amount, interest rate, and repayment period.
+**Loan Calculator**
+A user-friendly web application that helps users calculate loan payments, including monthly payments, total payment amounts, and total interest based on loan amount, interest rate, and repayment period.
 
 **Features**
 - Calculate monthly payment amounts
@@ -42,6 +42,5 @@ loan-calculator/
 ```
 
 **Installation and Setup**
-### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - Basic knowledge of web development (for modifications)
