@@ -25,20 +25,20 @@
 ```
 loan-calculator/
 │
-├── index.html          # Main HTML file
-├── style.css           # Custom CSS styles
-├── script.js           # JavaScript functionality
+├── index.html          
+├── style.css           
+├── script.js           
 ├── images/
-│   ├── car.png         # Car loan icon
-│   ├── Education.png   # Education loan icon
-│   ├── bike.png        # Bike loan icon
-│   ├── home.webp       # Home loan icon
-│   └── load-unscreen.gif # Loading animation
+│   ├── car.png         
+│   ├── Education.png   
+│   ├── bike.png        
+│   ├── home.webp       
+│   └── load-unscreen.gif 
 │
-├── screenshots/        # Application screenshots for documentation
+├── screenshots/        
 │   └── loan-calculator-screenshot.png
 │
-└── README.md           # Project documentation
+└── README.md           
 ```
 
 **Installation and Setup**
